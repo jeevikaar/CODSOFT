@@ -1,8 +1,8 @@
 # CODSOFT 
 CHATBOT WITH RULE-BASED RESPONSES
-CODSOFT AI Internship
 
-This project is part of Task 1 for the CodSoft Data Science Internship, where we build a simple rule-based chatbot using Python and ipywidgets in Google Colab. 
+
+This project is part of Task 1 for the CodSoft AI Internship, where we build a simple rule-based chatbot using Python and ipywidgets in Google Colab. 
 The chatbot provides interactive text-based communication with basic natural language understanding using regular expressions.
 
  Objective
